@@ -1,0 +1,7 @@
+missing_type,requested_ratio,missing_joints_per_frame,actual_ratio,split,recovery,mask_seed,ensemble_wer,fuse_wer,body_wer,left_wer,right_wer,loss
+random,0.00,0,0.0000,dev,none,42,19.5890,19.6958,21.0568,28.7697,21.3237,40.7123
+random,0.01,1,0.0127,dev,none,42,63.9979,74.4863,28.3961,95.3563,88.3907,181.4160
+random,0.02,2,0.0253,dev,none,42,86.7894,95.9968,38.2973,99.5463,97.4380,236.8478
+random,0.05,4,0.0506,dev,none,42,94.4756,99.8666,56.2583,99.1460,98.3987,264.3985
+random,0.10,8,0.1013,dev,none,42,96.8241,99.8932,79.2634,98.6656,97.3312,277.1553
+random,0.20,16,0.2025,dev,none,42,97.9717,99.4662,94.8492,99.1994,97.0910,296.0777

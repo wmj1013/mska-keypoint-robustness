@@ -1,0 +1,7 @@
+occlusion_width,occlusion_height,avg_missing_per_frame,actual_missing_ratio,zero_missing_frame_ratio,max_missing_per_frame,split,mask_seed
+0.05,0.05,0.4007,0.005073,0.7322,13,dev,42
+0.10,0.10,1.3668,0.017301,0.5163,22,dev,42
+0.15,0.15,2.7238,0.034479,0.4112,30,dev,42
+0.20,0.20,4.3639,0.055240,0.3448,42,dev,42
+0.25,0.25,6.2415,0.079006,0.2909,49,dev,42
+0.30,0.30,8.3365,0.105526,0.2431,56,dev,42

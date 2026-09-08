@@ -1,0 +1,2 @@
+best_epoch,train_masked_mse,mean_val_mse,random_light_mse,random_medium_mse,spatial_light_mse,spatial_medium_mse,motion_light_mse,motion_medium_mse
+10,0.0049576981,0.0040387679,0.003350,0.003484,0.002852,0.003454,0.005569,0.005525
